@@ -1,3 +1,3 @@
 Hello World
 
-![pic](./pic "segment")
+![pic](./pic.jpeg "segment")
